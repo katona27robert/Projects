@@ -1,0 +1,208 @@
+<resources>
+    <string name="app_name">Zombie adventure</string>
+    <string name="intro">
+        Welcome to a text based adventure game, where your only objective is to simply&#8230; survive.\n
+        You are a zombie apocalypse survivor (for now) and you will have to make decisions that will have different impacts on your experience.\n\n
+        Press the Start button to begin your adventure.\n
+    </string>
+    <string name="text_1">
+        You wake up in a car accident. You can see many crashed cars around you, some are turned upside-down, some are in flames. No people are to be found anywhere on the road.\n
+        Your radio is still on and it is broadcasting a national alert about an outbreak. You tune in a bit and you can hear the following message:\n\n
+        <i>This is the president speaking. Every surviving citizen must evacuate to the nearest military outpost for an examination.
+            A dangerous virus is spreading throughout the country.
+            Anyone who refuses to cooperate will be <u>terminated immediately</u>.\n God help us all.</i>\n\n
+        The message keeps repeating on every channel.\n\n
+        Well, you can`t just stand there forever, so you better get moving.
+    </string>
+
+    <string name="choice_1">Check your car</string>
+    <string name="choice_2">Check the road</string>
+
+    <string name="text_2">
+        Your car has taken quite some damage from the accident, so much in fact, that it may never run again.
+        You check the trunk for something useful but the only thing you find, is an old <u>hammer</u>. Unfortunately, you did not expect to be in a zombie apocalypse today.\n\n
+        However, there is a pickup truck not far from you with some stuff packed on the back. You could either take a look (hoping that there might be something useful in there) or you could just move on.\n\n
+        You decide to:
+    </string>
+
+    <string name="choice_1_1">Check the nearby car</string>
+    <string name="choice_1_2">Move on</string>
+
+    <string name="text_3">
+        You reach the car and you inspect the back, where you only find a heap of useless garbage.\n\n
+        As you walk past the car you see someone approach you from the back.
+        When he gets closer, you notice something odd about him&#8230;\n\n
+        he is covered in blood, his eyes are completely white, his teeth are also bloody and he`s missing his tongue (he probably bit it off himself).\n
+        When he reaches you, he suddenly grabs you and pulls you closer, trying to bite you in the shoulder!\n\n
+        You can decide to fight him back or you can attempt to run.
+    </string>
+
+    <string name="choice_1_1_1">Fight!</string>
+    <string name="choice_1_1_2">Escape!</string>
+
+    <string name="ending_0">You try to turn your back on him and attempt an escape, but since they already got a hold of you, your attempt fails miserably. \n\n
+    The undead sinks his teeth deep into your shoulder and proceeds chewing on you while you helplessly fall towards the ground. \n\n
+        THE END.
+    </string>
+
+    <string name="text_4">
+        You kill the undead with a firm blow to the head using your hammer and <u>splatter blood all over yourself as a result</u>.\n\n
+        Your poor quality hammer unfortunately <u>breaks</u> in the process (as well as the forehead of your foe), and you are left without it.
+    </string>
+
+    <string name="text_5">
+        You are now facing the highway. There is a long stretch of road ahead of you, which you can follow&#8230; \n\n
+        or you could also slip out from the highway and continue your journey across a forest in the wilderness. \n\n
+    </string>
+
+    <string name="choice_2_1">Wilderness</string>
+    <string name="choice_2_2">Follow the road</string>
+
+    <string name="text_6">
+        You decide to follow the road in hopes of meeting someone friendly.\n
+        Soon enough, after traveling for a couple of minutes, you see a group of people coming towards you.\n\n
+        They appear to be soldiers, who were sent here to inspect the area. They probably haven`t noticed you yet, so you can either play it cool and approach them or you can run for cover while they still can`t see you.
+    </string>
+
+    <string name = "ending_1">
+        You approach them and you try to communicate with them but one of the soldiers notices you are heavily covered in blood (from your encounter with the first infected), so he instantly starts shooting at you. \n
+        You try to take cover behind one of the nearby cars, but one bullet catches you and goes straight through your chest. You fall to the ground and you hear the soldiers running towards you. \n
+        You can hardly see or move from the immense pain, but you can faintly hear the soldiers discussing their next move. The next thing you hear is a clicking sound and then everything goes black. \n\n
+        THE END.
+    </string>
+
+
+    <string name = "text_7">
+        You raise your hands above your head and you start moving towards them. \n
+        They examine you and decide you are not one of the infected, so they offer to keep you safe until you reach the nearest outpost.
+    </string>
+
+    <string name = "choice_2_2_1">Approach them</string>
+    <string name = "choice_2_2_2">Make a run for it</string>
+
+    <string name = "choice_2_2_1_1">Kindly refuse</string>
+    <string name = "choice_2_2_1_2">Accept their offer</string>
+
+    <string name = "ending_2">You explain that you do not desire to join them to the military outpost and you would wish to go on your own way. \n
+        The leader of the group looks at you with a bit of confusion in his eyes and says: \n <i> Alright then. Be on your way, citizen. Have a pleasant evening.</i> \n\n
+        Not long after you have turned your back on them, they shoot you in the back and they leave you to bleed out on the street.  \n\n
+        THE END.
+    </string>
+
+    <string name = "text_10">You accept their offer and stick to the group. They inform you that in order to reach the nearest outpost, you have to travel through the wilderness, as it is situated in a remote area.
+    </string>
+
+    <string name = "text_8">You take your chance and you run towards a nearby car and take cover in the shadows. You can see a gap in the side of the road that leads to the wilderness.\n
+        You still have a couple of moments to decide whether you should wait for them to pass, or you should slip through the cars and escape to the wilds. \n\n
+        Do you take the risk?</string>
+
+    <string name = "choice_2_2_2_1">Escape to wilderness</string>
+    <string name = "choice_2_2_2_2">Wait for them to pass</string>
+
+    <string name = "text_9">You sit tight and you patiently wait for the soldiers to pass as you hear the footsteps getting louder and louder. \n\n
+        The moment they reach you, one of the soldiers notices you and points his gun at you.\n
+    </string>
+    <string name = "text_9_a">He sees you looking up at him and he also notices that you are heavily covered in blood (from your first encounter with an infected).
+        Without leaving any time for hesitation, he instantly shoots you right in the head. \n\n THE END
+    </string>
+    <string name = "text_9_b">They examine you more closely and decide you are not one of the infected, so they offer to keep you safe until you reach the nearest outpost together.
+    </string>
+
+    <string name = "text_11">You manage to get off the main road and you are now traveling through the wilderness, with each step leading deeper into the unknown forest.
+        The trees are blocking the already poor amount of sunlight and the only thing you can hear are the crackling of leaves and small branches as you walk. \n\n
+        Suddenly, a loud noise breaks the sound of nature&#8230; You turn around to examine the source of the noise and you realize that a horde of zombies are coming straight towards you!
+</string>
+
+    <string name = "text_11_a">Luckily, the soldiers noticed them too, and they start shooting at them! While you don`t have a gun with you, you can either hide and hope for the best or you can attempt to escape while you still can!
+</string>
+    <string name = "text_11_b">Unfortunately, you are all by yourself and you clearly could not hope to fight them all at once, so you can either hide in the bushes or you can take your chances and run away.
+</string>
+
+    <string name = "choice_2_1_1">HIDE!</string>
+    <string name = "choice_2_1_2">RUN!</string>
+
+    <string name = "ending_3">You sneak into the nearest bush and you lay down flat on the ground, hoping that the soldiers will take care of the horde, but unfortunately the zombies only become more aggravated by the gunfire and they catch up to you quickly.\n\n
+        You can see each soldier being torn apart as their screams echo throughout the forest. \n\n
+        One of the soldiers` bodies falls on the ground straight in front of you and a zombie leans down to devour it. While doing so, he notices you hiding in the bush and lunges at you, sinking his teeth deep into your shoulder.
+        You try to fight back, but soon enough you are surrounded by a small group of zombies, each taking a bite out of your flesh, wherever they can reach you. \n\n
+        THE END.
+</string>
+
+    <string name = "ending_4">You start running from the zombies, but unfortunately they heavily outnumber you and there`s nothing that could hold them back. \n\n
+        They catch up to you easily, cutting off all possible escape routes. Then, they jump at you from all directions and you can feel each bite they take out of your body, as they mindlessly consume you and tear you apart.\n\n
+        THE END.
+    </string>
+
+    <string name = "text_12">You jump into the nearest bush, hoping that they might run past you. You lay down on your stomach, and you quietly observe the zombies rushing in front of you. After a while, the noise calms down, so you decide it is time to get up and move on.\n\n
+	    As you lift yourself up from the ground, you realize that there is still one zombie lurking not far from you, that you have not noticed previously - but the zombie also hasn`t noticed you yet. \n\n
+        You can choose to sneak past him, or you can attempt to kill him while you still have an advantage.
+</string>
+
+    <string name = "choice_2_1_1_1">ATTACK!</string>
+    <string name = "choice_2_1_1_2">SNEAK PAST</string>
+
+    <string name = "text_12_a">Luckily, you still have your hammer with you, so you can use it as a weapon. \n\n
+        You wait for the zombie to get closer and sure enough, you manage to place a hit that instantly immobilizes your foe and splatters it`s brain all over the place.
+        However, your poor quality hammer <u>breaks</u> in the process, so you are left without it. </string>
+
+    <string name = "ending_5_1">Ignoring the fact that you currently do not carry any useful tools with you, you decide to attack the zombie with your bare hands&#8230; \n\n
+	Needless to say, the following events do not turn out to be as pleasant as it might have initially appeared.\n\n
+	The zombie could not be bothered less about your futile attempts of punching it in the face, so it continues to chew your face off as you helplessly stumble to the ground.\n\n
+	THE END.
+</string>
+
+    <string name = "ending_5_2">You decide to take your chances trying to outrun a zombie in the middle of the forest. \n\n
+        You jump up on your feet and you start running while still having no idea what lies beneath the leaves on the ground.
+        Just after a few steps, you manage to stub your toe in a rock that has been covered up by a pile of leaves, sending you towards the ground.\n\n
+        All the while, the zombie catches up to you and&#8230;\n\n well, I believe you can make an educated guess what happened next.\n\n
+		You died.\n\n
+		THE END.
+    </string>
+
+    <string name = "text_12_b">You decided to leave the soldiers and let them deal with the horde while you save your own skin. \n You can faintly hear their screams from behind you as you rush deeper into the forest, using their lives as bait against the zombies.
+</string>
+
+    <string name = "text_13">You advance further into the forest, when you hear another loud noise approaching.\nThis time it`s different, though…\n\n
+        Upon tracing the source of the noise, you can see a helicopter in the sky! However, the helicopter seems to be struggling, and it`s going to crash!\n
+        While looking at crashing point of the helicopter, you also notice that there is a cabin in the opposite direction!
+        So now, you can either investigate the crash site of the helicopter, or you could go to check out the cabin <i>(the pilot is probably dead, anyway)</i>.
+    </string>
+
+
+    <string name="choice_2_1_2_1">Helicopter</string>
+    <string name="choice_2_1_2_2">Cabin</string>
+
+    <string name = "text_14">Not leaving anything up to chance, you head towards the crashed helicopter. \n
+        As soon as you arrive there, the aircraft suddenly bursts into flames, but in the middle of the fire you can see that the pilot is still alive and he`s struggling to open the door! </string>
+
+    <string name = "choice_2_1_2_1_1">Save him</string>
+    <string name = "choice_2_1_2_1_2">Leave him</string>
+
+    <string name = "ending_6">You rush to help the pilot escape from his seat and both of you try pulling the door from its place, but you don`t have enough force to break the handle. \n\n
+        The pilot stops struggling and looks into your eyes one last time before the aircraft explodes and you both burn to a crisp.\n\n
+        THE END.
+    </string>
+
+    <string name = "text_15">Luckily, you still have your old hammer, which you can use to smash the handle on the door, freeing the pilot from his seat.
+        You successfully break the handle (<u>as well as your hammer</u>) and you quickly help the pilot out by dragging him to a safer distance.
+        Taking a closer look at him, you can see that he is heavily injured, bleeding from several places and he is unable to walk.
+	    After taking a few heavy breaths, the pilot explains to you: \n\n
+        <i>I don`t have much time, so &#8230; so listen up! The reason *cough* why I crashed my chopper &#8230; is because my co-pilot got infected *cough* and he started biting me mid-flight!
+        Now I know &#8230; I know he probably infected me too, so *cough* take this transmitter and wait for the *cough* army to contact you! Arrrgh!!! and now *cough* do me a favor &#8230;
+        I`ve been saving one last bullet in case *cough* in case something like this happens &#8230; I want &#8230; I want you to kill me with it, before I turn into one of those &#8230; one of those things. </i>\n\n
+		He cannot even reach his own pocket, so he points at his gun with his eyes. You can grant his wish and give him a quick death, or you could just leave and have one bullet to spare. You take the gun and &#8230;
+</string>
+
+    <string name = "choice_2_1_2_1_1_1">Leave him</string>
+    <string name = "choice_2_1_2_1_1_2">Shoot him</string>
+
+    <string name = "text_16">After weighing the risks, you decide not to play the hero of the day, so you make your way towards the cabin.
+</string>
+
+
+    <string name = "TEXT">TEXT</string>
+    <string name="choice_x">X</string>
+    <string name="choice_y">Y</string>
+
+
+</resources>
